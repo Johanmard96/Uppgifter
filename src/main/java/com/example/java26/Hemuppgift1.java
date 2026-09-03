@@ -4,7 +4,6 @@ public class Hemuppgift1 {static void main(String[] args) {
 
     /*IO.println("Hej, vad heter du?");
     String name = IO.readln();
-    IO.println(name);
     IO.println("Hej " + name +"!");*/
 
 
@@ -77,7 +76,7 @@ public class Hemuppgift1 {static void main(String[] args) {
         tal1 = tal2;
 
         tal2 = temp1;
-                            IO.println("Switcheroo " + tal1 + " " + tal2);
+        IO.println("Switcheroo " + tal1 + " " + tal2);
 
 }
 
