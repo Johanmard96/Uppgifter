@@ -8,6 +8,7 @@ public class Uppgift10 {
 
         IO.println("Temperature is " + celcius + " C and " +toFahrenheit(celcius) + " F");
 
+
     }
 
         public static double toFahrenheit(double temp) {
