@@ -67,16 +67,16 @@ public class Hemuppgift1 {static void main(String[] args) {
     }
     else {
         IO.println("Ditt tal är ojämnt");
-    }*/
+    } */
 
-    int tal1 = Integer.parseInt(IO.readln("Skriv in en siffra tack:" ));
+    /*int tal1 = Integer.parseInt(IO.readln("Skriv in en siffra tack:" ));
     int tal2 = Integer.parseInt(IO.readln("Skriv in en siffra till tack:"));
 
     int temp1 = tal1;
         tal1 = tal2;
 
         tal2 = temp1;
-        IO.println("Switcheroo " + tal1 + " " + tal2);
+        IO.println("Switcheroo " + tal1 + " " + tal2);*/
 
 }
 
